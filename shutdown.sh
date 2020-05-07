@@ -1,5 +1,5 @@
 #!/bin/bash
-S3BUCKET='	kuettai-asglogdemo-test'
+S3BUCKET='kuettai-asglogdemo-test'
 BACKUPDIRECTORY='/var/log'
 ASGNAME='asgDemo'
 HOOKRESULT='CONTINUE'
